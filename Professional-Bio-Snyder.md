@@ -1,5 +1,10 @@
 # Kristian Snyder
 
+## Contact Information
+
+Phone: (513) 442-9727  
+Email: snyderks@mail.uc.edu
+
 ## Co-op Experience
 
 ### Cybersecurity Intern: GE Aviation (Summer 2019 - Fall 2019)

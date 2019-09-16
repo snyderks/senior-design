@@ -19,6 +19,8 @@ sufficiently accurate model for the data, an auxiliary goal is to eventually
 convert this model to one that can preprocess on-line data and make
 determinations in near real-time.
 
+![Diagram of the various NIOSH lifting zones, showing relative distance from the body](./src/lift-zones.png)
+
 ## College Experiences
  
 Undoubtedly, the most critical courses for my possible success will be

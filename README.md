@@ -13,7 +13,7 @@ at increased risk of injury from their lifting technique.
 - [Design Diagrams](./assignments/Design-Diagrams.md)
 - [Project Tasks](./assignments/Tasklist.md)
 - [Milestones and Timeline](./assignments/Milestones-Timeline.md)
-- [Presentation](./assignments/Senior\ Design\ Presentation.pdf)
+- [Presentation](./assignments/Presentation.pdf)
 - [Self-Assessment](./assignments/Final-Report.md)
 - [Budget](./assignments/Budget.md)
 - [Appendix](./assignments/Appendix.md)

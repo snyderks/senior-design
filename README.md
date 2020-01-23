@@ -8,7 +8,7 @@ at increased risk of injury from their lifting technique.
 
 ## Spring Semester Progress
 
--[Test Plan](./assignments/Test-Plan.md)
+- [Test Plan](./assignments/Test-Plan.md)
 
 ## Table of Contents
 

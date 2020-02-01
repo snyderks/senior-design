@@ -6,6 +6,8 @@ Advisor: Dr. Rashmi Jha — `rashmi (dot) jha (at) uc (dot) edu`
 A system to determine from accelerometer and gyroscope data whether a person is
 at increased risk of injury from their lifting technique.
 
+- [Documentation/User Guide](./docs/README.md)
+
 ## Spring Semester Progress
 
 - [Test Plan](./assignments/Test-Plan.md)

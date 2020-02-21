@@ -1,6 +1,10 @@
 # User Documentation for Lift Classification Model
 
-[Usage](./usage.md)
+**Note: as there is not yet a CLI for the model (still in development due to 
+research progress), the documentation is incomplete. It will be improved as 
+these features are added.**
+
+[Usage](./usage.md)  
 [Interpretation](./interpretation.md)
 
 ## System Requirements

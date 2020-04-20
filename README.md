@@ -12,6 +12,7 @@ at increased risk of injury from their lifting technique.
 
 - [Test Plan](./assignments/Test-Plan.md)
 - [Spring Presentation](./assignments/Spring-Presentation.pdf)
+- [Final Self Assessment](./assignments/Final-Self-Assessment.md)
 
 ## Table of Contents
 
@@ -21,6 +22,6 @@ at increased risk of injury from their lifting technique.
 - [Project Tasks](./assignments/Tasklist.md)
 - [Milestones and Timeline](./assignments/Milestones-Timeline.md)
 - [Presentation](./assignments/Presentation.pdf)
-- [Self-Assessment](./assignments/Final-Report.md)
+- [Self Assessment](./assignments/Final-Report.md)
 - [Budget](./assignments/Budget.md)
 - [Appendix](./assignments/Appendix.md)

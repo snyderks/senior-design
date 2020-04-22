@@ -78,14 +78,7 @@ of the body (waist, arm, wrists, back, thigh) and will consist of a gyroscope
 and accelerometer at each location. Data are sourced from an existing study
 driven by NIOSH to study behavior during lifting and will run in parallel.
 
-Auxiliary goals (not a primary goal for existing research but driving toward the
-purpose):
-
-- The ability for the model to work on-line and recognize unsafe lifts in
-  near-real time
-- A live demo with the sensor cluster showing the classification
-- More granular recognition of where, relative to the person, where they were
-  lifting the object from
+An additional goal is to have the model recognize unsafe lifts in addition to classifying them.
 
 Generally, the process will involve three major steps in developing the model:
 

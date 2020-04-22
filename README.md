@@ -22,6 +22,8 @@ Source code for the model itself is freely available upon request under a [CC0 l
 - [Testing Results](./assignments/Testing-Results.md)
 - [Test Plan](./assignments/Test-Plan.md)
 - [Spring Presentation](./assignments/Spring-Presentation.pdf)
+- [UI/API Description](./assignments/User-Interface.md)
+- [Final Poster](./assignments/Poster-Final-Draft.pdf)
 - [Final Self Assessment](./assignments/Final-Self-Assessment.md)
 
 ## Table of Contents

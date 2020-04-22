@@ -1,5 +1,9 @@
 # User Documentation for Lupe
 
+[< Back](/README.md)
+
+## Navigation
+
 [Usage](./usage.md)  
 [Interpretation](./interpretation.md)
 
@@ -35,8 +39,11 @@ here](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/).
 
 To install the GPU version of keras, run the following commands:
 
-``` conda uninstall keras conda uninstall tensorflow conda install -c anaconda
-keras-gpu ```
+```
+conda uninstall keras 
+conda uninstall tensorflow 
+conda install -c anaconda keras-gpu 
+```
 
 ### Checkpoint
 
@@ -46,7 +53,8 @@ To test your configuration, create a new Python file (`config_test.py`) in the
 root directory of this repo, paste the following, and run it with `python
 config_test.py`:
 
-```python from tensorflow.python.client import device_lib
+```python 
+from tensorflow.python.client import device_lib
 print(device_lib.list_local_devices()) 
 
 from keras import backend as K print(K.tensorflow_backend._get_available_gpus())
@@ -57,7 +65,8 @@ and connection to your graphics card.
 
 Your output should look like this:
 
-```python [ name: "/cpu:0"device_type: "CPU", name: "/gpu:0"device_type: "GPU" ]
+```python 
+[ name: "/cpu:0"device_type: "CPU", name: "/gpu:0"device_type: "GPU" ]
 ```
 
 and should also list the GPU in the second section.

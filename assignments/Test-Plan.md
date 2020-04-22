@@ -1,5 +1,9 @@
 # Test Plan
 
+[< Back](/README.md)
+
+[See testing results here.](/assignments/Testing-Results.md)
+
 ## Overall Test Plan
 
 Given this is a research project, typical testing presents a challenge due to the more flexible requirements involved. However, much of the scaffolding and supporting infrastructure around the model *can* be tested and is the primary focus of the test. A second phase involves testing the ability to train, save, and then load a model so it can be reused instead of having to train a new model each time. The final test is to take a given lift, load the model, classify the lift, and output the resulting classification. 

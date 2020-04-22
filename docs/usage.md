@@ -16,15 +16,17 @@ A window should open in your default browser. Click on `Hi Dimension
 (CURRENT).ipynb` to open the notebook.
 
 Run the first 6 cells (to run the current cell, hit CTRL+ENTER; to run the
-current cell and move to the next, SHIFT+ENTER). The 6th cell should output the
-number
-of samples (683) and the number in the test and train subsets (512 and 171).
+current cell and move to the next, SHIFT+ENTER). This will prepare the underlying model structure.
+
+To set up the train test split for the first time, run the 7th cell. To save off the split, run the 8th cell. To load this split later, run the 9th cell.
 
 ## Training
 
-To train the model, run the 8th cell. This will begin the training process and
+To train the model, run the 11th cell and the 17th cell. This will begin the training process and
 should take about 10 minutes. Depending on the parameters (edit `one_params`),
 the model may not converge, in which case it will halt after 300 epochs.
+
+The model will output the final validation accuracy and return the model itself and the confusion matrix of the results. The confusion matrix is printed after returning.
 
 The final output is a confusion matrix of the testing results. See [here for an
 explanation of a confusion
@@ -32,12 +34,12 @@ matrix](https://en.wikipedia.org/wiki/Confusion_matrix).
 
 ## Saving Model
 
-Model saving is currently under development and not supported yet.
+Save the model with `model.save` in a new cell.
 
 ## Output Plots
 
-To generate output plots, run the next cell (cell 9) `trial_plots` function to
-create a heatmap and swarm plot of the results.
+To generate output plots, run cells 18-20 to
+create a heatmap, swarm plot, and saliency map of the results.
 
 ![Example heatmap](./heatmap-example.png)
 ![Example swarmplot](./swarm-example.png)

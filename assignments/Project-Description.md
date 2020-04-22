@@ -1,6 +1,8 @@
 [< Back](../README.md)
 
-# Predicting Back Injury Risk for Workers
+# Lupe
+
+![](/resources/lupe.png)
 
 ## Team Members
 
@@ -9,6 +11,10 @@ Kristian Snyder (snyderks@mail.uc.edu)
 ## Faculty Advisor
 
 Dr. Rashmi Jha (jhari@ucmail.uc.edu)
+
+## Abstract
+
+Lupe is a convolutional neural network model designed to determine, in real-time, whether a person is lifting an object and if they are at increased risk of injuring themselves as a result. It uses accelerometer and gyroscope sensors placed in various locations of the body and was able to achieve ~90% accuracy as both a risk classifier and as a lift detector.
 
 ## Project Background
 
